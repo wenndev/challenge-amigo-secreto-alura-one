@@ -44,4 +44,4 @@ Este projeto não possui dependências externas. Para utilizá-lo, basta seguir 
 2. Navegue até a pasta do projeto:
     cd nome-do-repositorio
 
-3. Abrava o  arquivo index.html no seu navegador.
+3. Abra o  arquivo index.html no seu navegador.
